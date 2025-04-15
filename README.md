@@ -1,4 +1,4 @@
-### ！！Must be installed first[MP4Box](https://gpac.io/downloads/gpac-nightly-builds/)，And confirm[MP4Box](https://gpac.io/downloads/gpac-nightly-builds/)Correctly added to environment variables
+### ！！Must be installed first [MP4Box](https://gpac.io/downloads/gpac-nightly-builds/)，And confirm [MP4Box](https://gpac.io/downloads/gpac-nightly-builds/) Correctly added to environment variables
 
 ### Add features
 
@@ -10,7 +10,7 @@
 
 ### Special thanks to `chocomint` for creating `agent-arm64.js`
 
-For acquisition`aac-lc` `MV` `歌词` You must fill in the information with a subscription`media-user-token`
+For acquisition`aac-lc` `MV` `lyrics` You must fill in the information with a subscription`media-user-token`
 
 - `alac (audio-alac-stereo)`
 - `ec3 (audio-atmos / audio-ec3)`
